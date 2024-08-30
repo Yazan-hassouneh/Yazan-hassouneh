@@ -2,10 +2,13 @@
 
 I'm Web & Game Developer 
 
-### Technologies
+### - *Web Technologies*  
 
 **Asp.Net**  
 **React**  
 **NextJs**  
 
+### - *Game Technologies*  
 
+**c#**  
+**Unity Engine** 
