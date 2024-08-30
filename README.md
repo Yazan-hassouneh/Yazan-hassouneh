@@ -1,6 +1,11 @@
-### Hellow Visitors 
-I'm Web Developer 
+## Hellow Visitors 
 
-Asp.Net core
-React
-NextJs
+I'm Web & Game Developer 
+
+### Technologies
+
+**Asp.Net**  
+**React**  
+**NextJs**  
+
+
